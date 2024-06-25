@@ -1,20 +1,31 @@
-## Hi there, I'm Carlos Mario👋
+# Hi there, I'm Carlos Mario 👋
+Bogota D.C , Colombia
+
+## :bar_chart: Data Scientist | MLOps | Bioengineering
+
 I'm a passionate data scientist with a background in bioengineering, specializing in extracting valuable insights from time series data. I'm proficient in various tools and techniques to analyze, model, and forecast temporal patterns across diverse domains.
 
+## 💡 My interests
+Currently my interests are related but not limited to ... 
+- [x] Time Series forecasting projects in several areas such as retail, sales, etc. 📈
+- [x] Attribution models for marketing mix modeling 📺
+- [x] Classification models for costumers segmentation 👫
 
+## 📫 How to reach me?
 
+You can connect with me through :
+* 📧 **Email:** carlosmsdiaz@gmail.com
+* 🔗 **LinkedIn** : [in/carlos-mario-salazar-3b00391b9](https://www.linkedin.com/in/carlos-mario-salazar-3b00391b9/)
 
-<!--
-**carlosmariosalazar/carlosmariosalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My tech stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * **Languages**: Python, C++ ,SQL
+ * **Data visualization**: Matplotlib, Seaborn, Plotly, PowerBI, Tableau
+ * **Feature engineering**: Scikit learn, Feature-Engine, Sktime
+ * **Machine Learning**: Scikit learn, XGBoost, LightGBM, Prophet, TensorFlow
+ * **Tools**: Git, Docker, MLFlow
+ * **Cloud Computing**: Microsoft Azure
+   
+## 📖 Education & Certifications
+* BSc Bioengineering, Universidad El Bosque
+* Azure Fundamentals AZ-900, Microsoft

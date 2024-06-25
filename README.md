@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Carlos Mario👋
+I'm a passionate data scientist with a background in bioengineering, specializing in extracting valuable insights from time series data. I'm proficient in various tools and techniques to analyze, model, and forecast temporal patterns across diverse domains.
+
+
+
 
 <!--
 **carlosmariosalazar/carlosmariosalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

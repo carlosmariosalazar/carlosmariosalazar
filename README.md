@@ -1,5 +1,8 @@
 # Hi there, I'm Carlos Mario 👋
-Bogota D.C , Colombia
+
+🌐 Bogota D.C. - Colombia
+
+*Please feel free to explore my repositories for a glimpse into my work!*
 
 ## :bar_chart: Data Scientist | MLOps | Bioengineering
 
@@ -10,6 +13,7 @@ Currently my interests are related but not limited to ...
 - [x] Time Series forecasting projects in several areas such as retail, sales, etc. 📈
 - [x] Attribution models for marketing mix modeling 📺
 - [x] Classification models for costumers segmentation 👫
+- [x] Collaborating on projects that make a positive difference :handshake:
 
 ## 📫 How to reach me?
 
